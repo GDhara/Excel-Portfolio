@@ -1,0 +1,13 @@
+You are the data analyst of a luxury car dealership. You were assigned with the following tasks:
+1	What's the most popular car manufacturer?					
+2	What's the most popular manufacturing country?					
+3	What's the least popular color for cars?					
+4	What's the average price per owner?					
+
+To answer these question used functions such as:
+
+COUNTIF
+TRIM
+UNIQUE
+XLOOKUP
+VALUE
